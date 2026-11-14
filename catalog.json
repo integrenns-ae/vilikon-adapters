@@ -1,0 +1,17 @@
+{
+  "standard": "vilikon.adapter-catalog/1",
+  "adapters": [
+    {
+      "slug": "mobile-de",
+      "name": {"de": "mobile.de", "en": "mobile.de"},
+      "description": {
+        "de": "Fahrzeugbestand, Preise und Inserate bei mobile.de pflegen (Seller API) und Kundenanfragen abholen (Lead API).",
+        "en": "Manage vehicle stock, prices and listings on mobile.de (Seller API) and fetch customer inquiries (Lead API)."
+      },
+      "keywords": ["mobile.de", "mobile", "auto", "autohaus", "fahrzeug", "fahrzeuge", "gebrauchtwagen", "inserate", "anfragen", "leads", "car", "cars", "dealer", "vehicles", "listings"],
+      "repo": "integrenns-ae/vilikon-adapter-mobile-de",
+      "commit": "b62a2772b8e759a901c4b5f4be8f435bad3e85ef",
+      "version": "0.1.0"
+    }
+  ]
+}
