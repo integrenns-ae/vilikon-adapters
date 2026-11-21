@@ -12,6 +12,18 @@
       "repo": "integrenns-ae/vilikon-adapter-mobile-de",
       "commit": "b62a2772b8e759a901c4b5f4be8f435bad3e85ef",
       "version": "0.1.0"
+    },
+    {
+      "slug": "dms",
+      "name": {"de": "Dokumentenablage (Post und Scanner)", "en": "Document filing (mail and scanner)"},
+      "description": {
+        "de": "Briefe am Handy fotografieren oder aus dem Scanner-Ordner (SFTP/FTPS) abholen: Texterkennung, Fristen in den Kalender, Belege in die Buchhaltung, Zahlungen als Aufgabe mit GiroCode, die Post ins Firmengedächtnis.",
+        "en": "Photograph letters on the phone or fetch them from the scanner folder (SFTP/FTPS): text recognition, due dates into the calendar, receipts into the bookkeeping, payments as a task with GiroCode, the mail into the company memory."
+      },
+      "keywords": ["post", "brief", "briefe", "dms", "dokumente", "dokumentenablage", "ablage", "scanner", "scannen", "nas", "sftp", "ftp", "ftps", "belege", "fristen", "rechnungen", "mail", "letters", "documents", "filing", "receipts", "due dates", "ocr"],
+      "repo": "integrenns-ae/vilikon-dms",
+      "commit": "747a31102ffd9461c28d5cc9e38937ca7f60a598",
+      "version": "0.2.0"
     }
   ]
 }
