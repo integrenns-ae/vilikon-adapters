@@ -5,13 +5,13 @@
       "slug": "mobile-de",
       "name": {"de": "mobile.de", "en": "mobile.de"},
       "description": {
-        "de": "Fahrzeugbestand, Preise und Inserate bei mobile.de pflegen (Seller API) und Kundenanfragen abholen (Lead API).",
-        "en": "Manage vehicle stock, prices and listings on mobile.de (Seller API) and fetch customer inquiries (Lead API)."
+        "de": "Fahrzeugbestand, Preise und Inserate bei mobile.de lesen und pflegen (Seller API) und Kundenanfragen abholen (Lead API, eigens freizuschalten).",
+        "en": "Read and manage vehicle stock, prices and listings on mobile.de (Seller API) and fetch customer inquiries (Lead API, enabled separately)."
       },
-      "keywords": ["mobile.de", "mobile", "auto", "autohaus", "fahrzeug", "fahrzeuge", "gebrauchtwagen", "inserate", "anfragen", "leads", "car", "cars", "dealer", "vehicles", "listings"],
+      "keywords": ["mobile.de", "mobile", "auto", "autohaus", "autobörse", "fahrzeugbörse", "börse", "fahrzeug", "fahrzeuge", "gebrauchtwagen", "nutzfahrzeuge", "lkw", "inserate", "anfragen", "leads", "car", "cars", "dealer", "vehicles", "listings", "marketplace"],
       "repo": "integrenns-ae/vilikon-adapter-mobile-de",
-      "commit": "b62a2772b8e759a901c4b5f4be8f435bad3e85ef",
-      "version": "0.1.0"
+      "commit": "f614d771162c81821b2d8e9accf39211008be26f",
+      "version": "0.2.0"
     },
     {
       "slug": "dms",
