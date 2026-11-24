@@ -22,8 +22,8 @@
       },
       "keywords": ["post", "brief", "briefe", "dms", "dokumente", "dokumentenablage", "ablage", "scanner", "scannen", "nas", "sftp", "ftp", "ftps", "belege", "fristen", "rechnungen", "mail", "letters", "documents", "filing", "receipts", "due dates", "ocr"],
       "repo": "integrenns-ae/vilikon-dms",
-      "commit": "6d58ce5278a1fd41488f3a80796f7eb1a9e0d2d8",
-      "version": "0.3.0"
+      "commit": "d7abae573d39c30af8c930185668ce13766c747c",
+      "version": "0.4.0"
     }
   ]
 }
